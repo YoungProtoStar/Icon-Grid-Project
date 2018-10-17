@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 523 550">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d40909;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3, .cls-5 {
+        fill: none;
+      }
+
+      .cls-3 {
+        stroke-width: 5px;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-699 -265)">
+    <g id="Ellipse_1" data-name="Ellipse 1" class="cls-1" transform="translate(699 265)">
+      <ellipse class="cls-4" cx="261.5" cy="275" rx="261.5" ry="275"/>
+      <ellipse class="cls-5" cx="261.5" cy="275" rx="261" ry="274.5"/>
+    </g>
+    <g id="Ellipse_2" data-name="Ellipse 2" class="cls-2" transform="translate(791 431)">
+      <ellipse class="cls-4" cx="66" cy="66.5" rx="66" ry="66.5"/>
+      <ellipse class="cls-5" cx="66" cy="66.5" rx="65.5" ry="66"/>
+    </g>
+    <g id="Ellipse_3" data-name="Ellipse 3" class="cls-2" transform="translate(1001 454)">
+      <ellipse class="cls-4" cx="75" cy="55" rx="75" ry="55"/>
+      <ellipse class="cls-5" cx="75" cy="55" rx="74.5" ry="54.5"/>
+    </g>
+    <line id="Line_1" data-name="Line 1" class="cls-3" x2="360" transform="translate(791.5 667.5)"/>
+  </g>
+</svg>
